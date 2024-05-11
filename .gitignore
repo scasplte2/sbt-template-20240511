@@ -1,0 +1,71 @@
+# Editor settings
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Scala tools
+.ensime
+.ensime_lucene
+.ensime_cache
+.ensime_snapshot
+ensime.sbt
+.metals/
+.bloop/
+.scala-build
+.sbtrc
+.sbt
+target
+.project
+.lib
+.bsp/
+
+# Build artifacts
+artifacts
+cache
+node_modules
+out/
+run/
+.env
+.authconfig.json
+
+# Test results
+tests.iml
+result*
+
+# Miscellaneous files
+.DS_Store
+.history
+.*.swp
+*~
+.#*
+db/
+.ignore
+.envrc
+.direnv/
+TAGS
+*.log
+*.tmp
+*.temp
+*.pem
+*.key
+deploy_rsa
+.ansible/
+*.retry
+inventory
+.vagrant/
+.bash_history
+
+# Bash scripts and miscellaneous config
+.bash_history
+.ignore
+.envrc
+.direnv/
+TAGS
+ENV/
+env/
+
+# Security and private keys
+*.pem
+*.key
+deploy_rsa
