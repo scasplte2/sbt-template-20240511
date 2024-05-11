@@ -1,8 +1,8 @@
-# DiLF4S
-**Di**stributed **L**edger **F**unctionalities for **S**cala
+# Title
+A basic template for starting a new Scala / SBT project
 
 ## Description
-This repository contains cryptographic functionalities designed to support the development of distributed ledger protocols using Scala.
+*Work In Progress*
 
 ## Installation
 *Work In Progress*
